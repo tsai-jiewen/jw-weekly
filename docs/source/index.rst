@@ -20,4 +20,4 @@ Contents
 
    usage
    api
-   markdown
+   markdown.md
